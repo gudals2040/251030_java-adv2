@@ -6,6 +6,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 
+// 결과값에 대비해서 공부
 // Future (JS Promise 유사)
 // ThreadPool -> Thread를 미리 준비해놓고 꺼내다가 사용하는 형태 <- ExecutorService
 public class Example05 {
